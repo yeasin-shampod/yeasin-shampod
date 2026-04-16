@@ -18,18 +18,19 @@
 ## 🧠 About Me
 
 ```python
-class YeasinShampod:
+cclass YeasinShampod:
     def __init__(self):
-        self.name       = "Yeasin Arafat Shampod"
-        self.degree     = "MSc Data Science @ FAU Erlangen-Nürnberg"
-        self.roles      = ["Data Analyst", "ML Researcher", "Research Assistant"]
-        self.lab        = "DIU NLP & ML Research Lab"
-        self.interests  = ["NLP", "Machine Learning", "Data Engineering", "AI"]
-        self.tools      = ["Python", "Power BI", "SQL", "Pandas", "OpenCV"]
-        self.fun_fact   = "I turn raw data into meaningful stories 📊"
+        self.name        = "Yeasin Arafat Shampod"
+        self.degree      = "MSc Data Science @ FAU Erlangen-Nürnberg"
+        self.roles       = ["Research Assistant", "Data Analyst", "NLP Researcher"]
+        self.lab         = "DIU NLP & ML Research Lab"
+        self.current     = "QDArchive — Scalable Quality Data Archive System"
+        self.experience  = "Microsoft Power BI | Data Analysis | Research Methodology"
+        self.interests   = ["NLP", "LLMs", "RAG Pipelines", "Data Engineering", "AI"]
+        self.fun_fact    = "I turn messy datasets into clean, meaningful insights 📊"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("MSc student by day, NLP researcher by night. Let's build something impactful! 🚀")
 
 me = YeasinShampod()
 me.say_hi()
