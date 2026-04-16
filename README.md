@@ -1,36 +1,29 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yeasin%20Arafat%20Shampod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Researcher%20%7C%20NLP%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=220&section=header&text=Yeasin%20Arafat%20Shampod&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MSc%20Data%20Science%20%7C%20NLP%20%26%20ML%20Researcher%20%7C%20Data%20Analyst&descAlignY=58&descSize=16&descColor=58A6FF" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🎓+MSc+Data+Science+%40+FAU+Erlangen-Nürnberg;🔬+NLP+%26+ML+Researcher+%7C+Data+Analyst;🚀+Building+Intelligent+Systems+with+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=🎓+MSc+Data+Science+%40+FAU+Erlangen-Nürnberg;🔬+Research+Assistant+%40+DIU+NLP+%26+ML+Lab;🚀+Building+QDArchive+%7C+RAG+Pipelines+%7C+AI+Systems;📊+Data+Analyst+%7C+Power+BI+%7C+Python+Developer)](https://git.io/typing-svg)
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeasinshampod)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeasin-shampod)
-[![Profile Views](https://komarev.com/ghpvc/?username=yeasin-shampod&style=for-the-badge&color=blueviolet)](https://github.com/yeasin-shampod)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeasin-shampod)
+[![Profile Views](https://komarev.com/ghpvc/?username=yeasin-shampod&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/yeasin-shampod)
 
 </div>
 
 ---
 
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 ## 🧠 About Me
 
 ```python
-cclass YeasinShampod:
-    def __init__(self):
-        self.name        = "Yeasin Arafat Shampod"
-        self.degree      = "MSc Data Science @ FAU Erlangen-Nürnberg"
-        self.roles       = ["Research Assistant", "Data Analyst", "NLP Researcher"]
-        self.lab         = "DIU NLP & ML Research Lab"
-        self.current     = "QDArchive — Scalable Quality Data Archive System"
-        self.experience  = "Microsoft Power BI | Data Analysis | Research Methodology"
-        self.interests   = ["NLP", "LLMs", "RAG Pipelines", "Data Engineering", "AI"]
-        self.fun_fact    = "I turn messy datasets into clean, meaningful insights 📊"
-
-    def say_hi(self):
-        print("MSc student by day, NLP researcher by night. Let's build something impactful! 🚀")
-
-me = YeasinShampod()
-me.say_hi()
+class YeasinShampod:
+    name     = "Yeasin Arafat Shampod"
+    degree   = "MSc Data Science @ FAU Erlangen-Nürnberg 🎓"
+    lab      = "DIU NLP & ML Research Lab 🔬"
+    current  = "QDArchive — Scalable Quality Data Archive 🗄️"
+    past     = "Data Analyst | Microsoft Power BI 📊"
+    research = ["NLP", "Machine Learning", "RAG Pipelines", "LLMs"]
+    location = "Germany 🇩🇪"
+    open_to  = "Research Collabs & Open Source 🤝"
+    quote    = "Data is the new oil — I'm here to refine it ⚡"
