@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=220&section=header&text=Yeasin%20Arafat%20Shampod&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MSc%20Data%20Science%20%7C%20NLP%20%26%20ML%20Researcher%20%7C%20Data%20Analyst&descAlignY=58&descSize=16&descColor=58A6FF" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Yeasin+Arafat+Shampod+👋;MSc+Data+Science+%40+FAU+Erlangen-Nürnberg+🎓;NLP+%26+ML+Researcher+🔬;Building+Intelligent+AI+Systems+🚀)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=🎓+MSc+Data+Science+%40+FAU+Erlangen-Nürnberg;🔬+Research+Assistant+%40+DIU+NLP+%26+ML+Lab;🚀+Building+QDArchive+%7C+RAG+Pipelines+%7C+AI+Systems;📊+Data+Analyst+%7C+Power+BI+%7C+Python+Developer)](https://git.io/typing-svg)
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeasinshampod)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeasin-shampod)
